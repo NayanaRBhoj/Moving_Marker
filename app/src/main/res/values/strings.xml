@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str_btn_draw">Draw Route</string>
+    <string name="title_location_permission">Allow Location Access</string>
+    <string name="text_location_permission">Application need to use location permission</string>
+    <string name="ok">Allow</string>
+</resources>
